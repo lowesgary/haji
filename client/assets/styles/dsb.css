@@ -26,6 +26,7 @@ html {
   display: flex;
   flex-direction: column;
   position: relative;
+  background-color: #1536be;
 }
 
 nav {
